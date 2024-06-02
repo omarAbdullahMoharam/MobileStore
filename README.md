@@ -36,11 +36,14 @@ The Mobile Store Application is a feature-rich mobile app developed using Flutte
     **Form Validation**: Ensures data integrity.
 
 **Installation**
+
   **1- Clone the repository:**
       git clone https://github.com/yourusername/mobile_store_app.git
       cd mobile_store_app
+      
   **2- Install dependencies:**
       flutter pub get
+      
   **3- Run the application:**
       flutter pub get
 
@@ -54,32 +57,48 @@ The Mobile Store Application is a feature-rich mobile app developed using Flutte
 **Usage**
   **Adding a Product (Admin Feature)**
       1- Navigate to the products page.
+      
       2- Click on the "Add Product" button.
+      
       3- Fill out the form with the product name, price, and image URL.
+      
       4- Save the product to store it in the local database and update the product list.
 
   **Browsing Products**
+      
       1- View the list of available products with detailed information.
+      
       2- Mark products as favorites or add them to the cart.
   
   **Cart Management**
+      
       1- Add products to your cart.
+      
       2- Remove products from your cart.
+      
       3- View the cart contents with persistent storage.
 
 **Contributing**
+    
     1- Fork the repository.
+    
     2- Create a new branch (git checkout -b feature/your-feature).
+    
     3- Commit your changes (git commit -m 'Add some feature').
+    
     4- Push to the branch (git push origin feature/your-feature).
+    
     5- Create a new Pull Request.
 
 **License**
   Not Needed
 
 **Acknowledgements**
+  
   1- Flutter and Dart teams for providing the tools and documentation.
+  
   2- Community contributors for their helpful packages and resources.
 
 **Contact**
+
 For any inquiries or feedback, please contact omarmoharam790@gmail.com .
